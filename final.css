@@ -1,0 +1,74 @@
+/* McKenna Rybaltowski */
+/* Three Column Template */
+/* January 3, 2018 */
+
+* { 
+    margin: 0;
+    padding: 0; }
+
+header { 
+    border-bottom: 2px solid darkgreen; }
+
+body {
+    width: 964px;
+    background-color: #e6ffe6;
+    margin: 15px auto;
+    border: 2px solid darkgreen; }
+
+#sidebarA {
+    width: 20%;
+    height: 500px;     
+    float: left;
+    border-right: 2px solid darkgreen; }
+
+main {
+    width: 54%; 
+    float: left;
+    border-right: 2px solid darkgreen; }
+
+p {
+	margin: 8px;}
+
+li {
+	margin: 8px;}
+	
+h1 {
+	text-align: center;}
+
+h2 {
+	text-align: center;}
+	
+.prizepic {
+	float: center;
+	padding: 10x;
+	border: 2px black;
+	margin: 10px;
+	height: 140px;
+	width: 190px; }
+
+.dorothyhodgkinpic {
+	float: left;
+	padding: 10x;
+	border: 2px black;
+	margin: 15px;
+	height: 150px;
+	width: 200px; }
+	
+.model {
+	float: center;
+	padding: 12x;
+	border: 2px black;
+	margin: 15px;
+	height: 125px;
+	width: 170px; }
+
+#sidebarB {
+    width: 24%;
+    height: 400px;     
+    float: right;}
+
+footer {
+    clear: both; 
+    height: 100px
+    width: 600px;
+    border-top: 2px solid darkgreen; }
